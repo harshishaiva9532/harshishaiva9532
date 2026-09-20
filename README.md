@@ -26,7 +26,7 @@
 
 ## 📄 Know about my experiences
 
-- 📄 <a href="https://drive.google.com/file/d/1CgnB3WYooa_caYkhkxhpPc0b4JrDJK3g/view?usp=drivesdk" target="_blank">View My Experience / Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1cWnxDKSJF--5ULwSY2ONO4V97hQnN4W6/view?usp=drivesdk" target="_blank">View My Experience / Resume</a>
 
 
 ---
@@ -46,7 +46,7 @@
 
 <p align="left">
 
-🔗 <a href="https://github.com/Harshitutorials" target="_blank">💻 My GitHub Projects</a>
+🔗 <a href="https://github.com/harshishaiva9532" target="_blank">💻 My GitHub Projects</a>
 
 </p>
 
