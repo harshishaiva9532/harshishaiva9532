@@ -54,50 +54,22 @@
 
 ---
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
-</a>
+🐍 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" />
+⚡ <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50" />
+🌐 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" />
+🎨 <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" />
+🗄️ <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" />
+☁️ <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50" height="50" />
+🔀 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" />
+🐙 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" />
+🐧 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
+🟢 <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50" height="50" />
 
 </p>
 
+---
 ---
