@@ -42,13 +42,15 @@
 </p>
 
 ---
-## For My Projects:
+## 🚀 For My Projects:
 
 <p align="left">
 
-<a href="ttps://github.com/Harshitutorials" target="_blank"></a>
+🔗 <a href="https://github.com/Harshitutorials" target="_blank">💻 My GitHub Projects</a>
 
 </p>
+
+---
 
 ---
 
