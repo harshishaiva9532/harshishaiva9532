@@ -18,6 +18,18 @@
 
 ---
 
+## 📫 How to reach me
+
+- 📧 Email: **harshithshaiva2005@gmail.com**
+
+---
+
+## 📄 Know about my experiences
+
+- 📄 [View My Experience / Resume](https://drive.google.com/file/d/1CgnB3WYooa_caYkhkxhpPc0b4JrDJK3g/view?usp=drivesdk)
+
+---
+
 ## Connect with me:
 
 <p align="left">
