@@ -78,14 +78,6 @@
 
 ---
 
-## GitHub Stats:
-
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshithshaiva9532&show_icons=true&theme=dark" />
-
-</p>
-
 <p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithshaiva9532&layout=compact&theme=dark" />
