@@ -42,11 +42,11 @@
 </p>
 
 ---
-## Connect with me:
+## For My Projects:
 
 <p align="left">
 
-<a href="ttps://github.com/Harshitutorials" target="_blank">for my projects</a>
+<a href="ttps://github.com/Harshitutorials" target="_blank"></a>
 
 </p>
 
