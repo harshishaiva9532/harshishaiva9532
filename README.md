@@ -20,13 +20,14 @@
 
 ## 📫 How to reach me
 
-- 📧 Email: **harshithshaiva2005@gmail.com**
+- 📧 <a href="mailto:harshithshaiva2005@gmail.com">harshithshaiva2005@gmail.com</a>
 
 ---
 
 ## 📄 Know about my experiences
 
-- 📄 [View My Experience / Resume](https://drive.google.com/file/d/1CgnB3WYooa_caYkhkxhpPc0b4JrDJK3g/view?usp=drivesdktarget="_blank")
+- 📄 <a href="https://drive.google.com/file/d/1CgnB3WYooa_caYkhkxhpPc0b4JrDJK3g/view?usp=drivesdk" target="_blank">View My Experience / Resume</a>
+
 
 ---
 
