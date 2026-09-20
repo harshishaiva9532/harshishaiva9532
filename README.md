@@ -1,94 +1,93 @@
+<div align="center">
+
 # Hi 👋, I'm Harshith S M
 
-### 🐍 Aspiring Python Developer | Fresher
+### Aspiring Python Developer | Python, AWS, SQL and Cloud
 
-Aspiring Python Developer with a strong foundation in Python, SQL, JavaScript, HTML, CSS, AWS, Git, and Linux. Interested in developing practical applications, cloud-based solutions, and continuously learning new technologies.
+![Profile Views](https://komarev.com/ghpvc/?username=harshithshaiva9532&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+- 🐍 Aspiring **Python Developer** and fresher
+- ☁️ Interested in **AWS Cloud and Python Development**
+- 💻 Strong foundation in **Python, SQL, JavaScript, HTML and CSS**
+- 🔧 Familiar with **Git, GitHub and Linux**
+- 📚 Continuously learning new technologies and improving my development skills
+
+---
+
+## Connect with me:
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<a href="www.linkedin.com/in/harshith-s-m-130123375" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+</a>
 
 </p>
 
 ---
 
-## 💡 Skills
+## Languages and Tools:
 
-### Programming
-- Python
+<p align="left">
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+</a>
 
-### Database
-- SQL
-- MySQL
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</a>
 
-### Cloud
-- AWS
-- AWS Lambda
-- Amazon EBS
-- IAM
-- CloudWatch
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+</a>
 
-### Version Control
-- Git
-- GitHub
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+</a>
 
-### Operating System
-- Linux
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</a>
 
----
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45"/>
+</a>
 
-## 🎓 Education
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+</a>
 
-**B.Tech – Computer Science Engineering**
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+</a>
 
-Rajeev Institute of Technology, Hassan  
-Visvesvaraya Technological University
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+</a>
 
----
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+</a>
 
-## 🌱 Currently Learning
-
-- Advanced Python
-- Python Development
-- SQL
-- AWS Cloud Services
-- Data Structures & Algorithms
-- Cloud Automation
-- Web Development
+</p>
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats:
 
-- 💼 LinkedIn: [Add Your LinkedIn Profile Link]()
-- 📧 Email: [Add Your Email]()
-- 🐙 GitHub: [Add Your GitHub Profile Link]()
+<p align="left">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=harshithshaiva9532&show_icons=true&theme=dark" />
 
-## 🎯 Career Objective
+</p>
 
-To start my career as a Python Developer and apply my programming, database, cloud, and problem-solving skills to develop practical and scalable software solutions while continuously improving my technical knowledge.
+<p align="left">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithshaiva9532&layout=compact&theme=dark" />
 
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories.
+</p>
