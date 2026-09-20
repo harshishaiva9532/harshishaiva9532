@@ -46,8 +46,7 @@
 
 <p align="left">
 
-<a href="ttps://github.com/Harshitutorials" target="_blank">for my projects 
-</a>
+<a href="ttps://github.com/Harshitutorials" target="_blank">for my projects</a>
 
 </p>
 
