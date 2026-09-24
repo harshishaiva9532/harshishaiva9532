@@ -26,7 +26,7 @@
 
 ## 📄 Know about my experiences
 
-- 📄 <a href="https://drive.google.com/file/d/1cWnxDKSJF--5ULwSY2ONO4V97hQnN4W6/view?usp=drivesdk" target="_blank">View My Experience / Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1luHYr-6v8yMpv07ih62xvRpuijAu29fp/view?usp=drivesdk" target="_blank">View My Experience / Resume</a>
 
 
 ---
